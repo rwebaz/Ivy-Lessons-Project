@@ -17,6 +17,15 @@ The same restriction applies to runaway contracts when using the **CVM** as when
 
 However, unlike the **Ethereum** platform, the *gas* is free when using the **Chain dot com** platform.
 
+This is a test sentence for the internal page anchor #1 in red => MMINAIL [[1](#MMINAIL){:.red}].
+
+The reference points to the first internal citation [[MMINAIL](#MMINAIL){:.red}] below.
+
+By clicking on either the red [1] above, or the red [MMINAIL] ...
+{:.red}
+
+The reader will be hyperlinked to the bottom of the page directly to the referenced citation.
+
 ## Receiver Objects
 
 A **Receiver Object** is a node that issues a digital form of invoice to an *incoming party*.
@@ -184,11 +193,11 @@ Most authors and publishers will allow for the abbreviated reproduction of their
 
 Indeed, ping-backs to the original sources are welcome by the readers, the authors, and the publishers of instructional hard copies.
 
-Therefore, it is the policy of the **[MMINAIL](1)** to always provide a **Ping Back** to the original author, or to the publisher of the original publication when citing 3rd party work.
+Therefore, it is the policy of the MMINAIL [[1](#MMINAIL){:.red}] to always provide a **Ping Back** to the original author, or to the publisher of the original publication when citing 3rd party work.
 
 ### Inline References
 
-1. [MMINAIL](https://mminail.github.io/){:title="Click to Visit the Concept Library of the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation"}{:target="_blank"}. The MMINAIL is an acronym for the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation. Published by © 2017 [Mminail.github.io](https://mminail.github.io/){:title="Click to Visit the Concept Library of the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation"}{:target="_blank"}.
+1. {:#MMINAIL}The [MMINAIL](https://mminail.github.io/){:title="Click to Visit the Concept Library of the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation"}{:target="_blank"} is an acronym for the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation. Published by © 2017 [Mminail.github.io](https://mminail.github.io/){:title="Click to Visit the Concept Library of the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation"}{:target="_blank"}.
 
 1. [CHAIN](https://www.chain.com/){:title="Click to Visit ..."}{:target="_blank"}. The CHAIN is an acronym for the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation. Published by © 2017 [Chain.com](https://www.chain.com/){:title="Click to Visit ..."}{:target="_blank"}.
 
