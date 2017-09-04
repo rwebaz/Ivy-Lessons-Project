@@ -199,14 +199,10 @@ Therefore, it is the policy of the MMINAIL [[1](#MMINAIL){:.red}] to always prov
 
 1. {:#MMINAIL}The [MMINAIL](https://mminail.github.io/){:title="Click to Visit the Concept Library of the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation"}{:target="_blank"} is an acronym for the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation. Published by © 2017 [Mminail.github.io](https://mminail.github.io/){:title="Click to Visit the Concept Library of the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation"}{:target="_blank"}.
 
-1. [CHAIN](https://www.chain.com/){:title="Click to Visit ..."}{:target="_blank"}. The CHAIN is an acronym for the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation. Published by © 2017 [Chain.com](https://www.chain.com/){:title="Click to Visit ..."}{:target="_blank"}.
+1. The [CHAIN](https://www.chain.com/){:title="Click to Visit ..."}{:target="_blank"} is an acronym for the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation. Published by © 2017 [Chain.com](https://www.chain.com/){:title="Click to Visit ..."}{:target="_blank"}.
 
 ### External Sources
 
 - [Project Source Links](https://rwebaz.github.io/Medcoin-Crypto-Currency-Project/pages/Source-Links.html){:title="Click to Visit the Medcoin™ Crypto Currency Project Source Links Page"}{:target="_blank"). Published by © 2017 [Mminail.github.io](https://mminail.github.io/){:title="Click to Visit the Concept Library of the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation"}{:target="_blank"}.
 
 **Note**. Please support the authors and publishers who aggregate the **Source Links** for our projects.
-
-
-
-
