@@ -1,10 +1,9 @@
 ---
-title: Ivy
+title: Chain Gang
 layout: default
 navigation_weight: 9
 ---
-
-# Ivy
+# Chain Gang
 
 **Ivy** is a programming language designed to code and convert block chain technology into the lower level byte language of the **Chain Virtual Machine**, or **CVM**.
 
