@@ -7,7 +7,7 @@ navigation_weight: 9
 
 **Ivy** is a programming language designed to code and convert block chain technology into the lower level byte language of the **Chain Virtual Machine**, or **CVM**.
 
-{% include md-toc-flammarion.htm %}
+{% include toc-flammarion.md %} 
 
 ## CVM
 
@@ -15,16 +15,9 @@ The **Chain Virtual Machine** aka the **CVM** drives the Turing complete **Chain
 
 The same restriction applies to runaway contracts when using the **CVM** as when using the **Ethereum Virtual Machine**, or **EVM**.
 
+### Free Gas
+
 However, unlike the **Ethereum** platform, the *gas* is free when using the **Chain dot com** platform.
-
-This is a test sentence for the internal page anchor #1 in red => MMINAIL [[1](#MMINAIL){:.red}].
-
-The reference points to the first internal citation [[MMINAIL](#MMINAIL){:.red}] below.
-
-By clicking on either the red [1] above, or the red [MMINAIL] ...
-{:.red}
-
-The reader will be hyperlinked to the bottom of the page directly to the referenced citation.
 
 ## Receiver Objects
 
@@ -40,7 +33,7 @@ In other words, an external party to a contract cannot simply toss a coin at ano
 
 A protocol must be established to either accept the incoming asset if desirable, or to reject the incoming asset if by some other method the sender is deemed not worthy.
 
-## Serialize and Send
+### Serialize and Send
 
 First, we have to create a **Receiver Object** with the keyword "Receiver", as follows:
 
@@ -144,9 +137,11 @@ String castleReceiverSerialized = castleReceiver.to_Json();
 {% endraw %}
 ```
 
-### Receiver Request: Creation
+## Receiver Requests
 
 A **Receiver Request** is the message to the **Receiver Object** to please accept coin.
+
+### Creation
 
 ```liquid
 {% raw %}
@@ -165,7 +160,7 @@ Transaction.Template spendingTransaction2 = new Transaction.Builder()
 {% endraw %}
 ```
 
-### Receiver Request: Submission
+### Submission
 
 Notice how the **Receiver Request** above includes a call to the pre-made 'castleReceiverSerialized' method.
 
@@ -175,34 +170,10 @@ Notice how the **Receiver Request** above includes a call to the pre-made 'castl
 {% endraw %}
 ```
 
-## Raw Code
-
-Place the introducing line of text ie.) the 'tagline' here ...
-
-```liquid
-{% raw %}
-`...`
-{% endraw %}
-```
-
-## Sources and Uses
-
-The source and use of 3rd party materials in the creation of this **Markdown** page is greatly appreciated.
-
-Most authors and publishers will allow for the abbreviated reproduction of their works in part when the case of brief quotations or ideas embodied in critical articles or reviews becomes necessary to further the understanding of the end-user's learning process.
-
-Indeed, ping-backs to the original sources are welcome by the readers, the authors, and the publishers of instructional hard copies.
-
-Therefore, it is the policy of the MMINAIL [[1](#MMINAIL){:.red}] to always provide a **Ping Back** to the original author, or to the publisher of the original publication when citing 3rd party work.
-
-### Inline References
-
-1. {:#MMINAIL}The [MMINAIL](https://mminail.github.io/){:title="Click to Visit the Concept Library of the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation"}{:target="_blank"} is an acronym for the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation. Published by © 2017 [Mminail.github.io](https://mminail.github.io/){:title="Click to Visit the Concept Library of the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation"}{:target="_blank"}.
-
-1. The [CHAIN](https://www.chain.com/){:title="Click to Visit Chain dot com"}{:target="_blank"} is an acronym for the Chain Virtual Machine and its accompanying Ivy programming language. Published by © 2017 [Chain.com](https://www.chain.com/){:title="Click to Visit Chain dot com"}{:target="_blank"}.
+{% include sources-and-uses.md %}
 
 ### External Sources
 
-- The [Project Source Links](https://mminail.github.io/Ivy/Source-Ivy-Links.htm){:title="Click to Visit the Ivy Lessons Project Source Links page"}{:target="_blank"} for the Ivy Lessons Project. Published by © 2017 [Mminail.github.io](https://mminail.github.io/){:title="Click to Visit the Concept Library of the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation"}{:target="_blank"}.
+- The [Project Source Links](https://mminail.github.io/Ivy/Source-Ivy-Links.htm){:title="Click to Visit the Source Links page of the Ivy Lessons Project at GitHub pages"}{:target="_blank"}. Published by © 2017 [Mminail.github.io](https://mminail.github.io/){:title="Click to Visit the Concept Library of the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation"}{:target="_blank"}.
 
-**Note**. Please support the authors and publishers who aggregate the **Source Links** for our projects.
+- The [CHAIN](https://www.chain.com/){:title="Click to Visit Chain dot com"}{:target="_blank"} is an acronym for the Chain Virtual Machine and its accompanying Ivy programming language. Published by © 2017 [Chain.com](https://www.chain.com/){:title="Click to Visit Chain dot com"}{:target="_blank"}.
