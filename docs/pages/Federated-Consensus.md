@@ -9,19 +9,29 @@ navigation_weight: 9
 
 {% include toc-flammarion.md %}
 
-## PBN
+## Permissioned Blockchain Network (PBN)
 
-There are a number of advantages and features in a **Permissioned Blockchain Network** when operating with a **Federated Consensus**.
+Traditional blockchain mining ( BTC, ETH ) costs exponentially greater amounts of electricity every month as Bitcoin and Ethereum expand their networks and platforms.
 
-### Benefits
+When operating a **Federated Consensus** blockchain model over a **Permissioned Blockchain Network**, or **PBN** ...
 
-1. Prevents double-spending of assets across the network
+- A number of advantages and new features emerge
 
-1. Prevents history from being edited or rewritten
+- In addition to the original base reasons for creating a genesis block in the first place
 
-1. Reduces leakage
+Which begs the question, *"Why we are still allowing Bitcoin and Ethereum to move counter to our Anti-fossil fuel regiments by consuming copious amounts of "should never be allowed to expand" hydro generated cheap electricity from the East?"*
 
-1. Runs on "free" gas
+### PBN Benefits
+
+1. A **Permissioned Blockchain Network** ( like the protocol of "Proof O Work" that underpins both Bitcoin and the Ethereum networks ) prevents the *double-spending* of assets across the subject network
+
+1. A **Permissioned Blockchain Network** ( also like the protocol of "Proof O Work" that underpins both Bitcoin and the Ethereum networks ) prevents history from being edited or rewritten across the subject network
+
+1. A **Permissioned Blockchain Network** reduces *leakage*
+
+1. A **Permissioned Blockchain Network** ( un-like the protocol of "Proof O Work" that underpins both Bitcoin and the Ethereum networks ) runs on "free" *gas*.
+
+1. A **Permissioned Blockchain Network** works very fast. Think along the lines of Bitcoin or Ethereum and the wait-time required ( two-to-ten minutes ... maybe! ) to confirm a transaction in either the (BTC) or (ETH) blockchains. Not very conducive to **IoT**, or *Internet of Things* transactions. Whereas a **PBN** can stamp a *block-o-transactions* in seconds.
 
 ### Logic
 
