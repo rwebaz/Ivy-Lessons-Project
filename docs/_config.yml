@@ -1,12 +1,10 @@
-theme: jekyll-theme-cayman
-
 # Site settings
 #
-# Date of this Update to Config-template file ver 08-13-2017 PM
+# Date of this Update to Config-template file ver 12-18-2017
 #
 # github: [metadata]
 theme: "jekyll-theme-cayman"
-# repository: MMINAIL/mminail.github.io
+# repository: https://www.github.com/rwebaz/Ivy-Lessons-Project
 title: "Ivy Lessons Project"
 tagline: "A GitHub repo of Lessons and Articles that emphasize both the GFM and Kramdown engines"
 description: "A GitHub repo of Lessons and Articles that emphasize both the GFM and Kramdown engines"
@@ -44,11 +42,6 @@ defaults:
 defaults:
   - scope:
       path: "assets/img/svg"
-    values:
-      image: "true"
-defaults:
-  - scope:
-      path: "assets/ico"
     values:
       image: "true"
 defaults:
