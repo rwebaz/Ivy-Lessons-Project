@@ -1,15 +1,20 @@
 ---
 title: Chain Gang
 layout: default
-navigation_weight: 9
+excerpt: The Ivy programming language converts block chain code into byte language ...
+version: Page Template md Dtd 02-16-18
+navigation_weight: 8
+categories: template
 ---
-# Chain Gang
+# {{ page.title }}
+
+{{ page.excerpt }}
+
+{% include toc.md %}
+
+## CVMs
 
 **Ivy** is a programming language designed to code and convert block chain technology into the lower level byte language of the **Chain Virtual Machine**, or **CVM**.
-
-{% include toc-flammarion.md %} 
-
-## CVM
 
 The **Chain Virtual Machine** aka the **CVM** drives the Turing complete **Chain**  platform developed by the **Chain Gang** at [Chain dot com](2).
 
@@ -170,10 +175,28 @@ Notice how the **Receiver Request** above includes a call to the pre-made 'castl
 {% endraw %}
 ```
 
+## Import Code
+
+More to come ...
+
+## Last Subtitle
+
+**Note**. The above synopsis was derived from an article written by the Chain [[2](#CHAIN){:.red}].
+
+### Raw Code Block
+
+```liquid
+{% raw %}
+Enjoy the successful output!
+{% endraw %}
+```
+
 {% include sources-and-uses.md %}
+
+1. {:#CHAIN}The [CHAIN](https://www.chain.com/){:title="Click to Visit Chain dot com"}{:target="_blank"} is an acronym for the Chain Virtual Machine and its accompanying Ivy programming language. Published by © 2017 [Chain.com](https://www.chain.com/){:title="Click to Visit Chain dot com"}{:target="_blank"}.
 
 ### External Sources
 
-- The [Project Source Links](https://mminail.github.io/Ivy/Source-Ivy-Links.htm){:title="Click to Visit the Source Links page of the Ivy Lessons Project at GitHub pages"}{:target="_blank"}. Published by © 2017 [Mminail.github.io](https://mminail.github.io/){:title="Click to Visit the Concept Library of the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation"}{:target="_blank"}.
+- {:#SOURCELINKS}The [Project Source Links](https://mminail.github.io/Ivy/Source-Ivy-Links.htm){:title='Click to Visit the Source Links page of the Ivy Lessons Project at Concepts Library'}{:target='_blank'} page of the Ivy Lessons Project at Concepts Library. Published by © 2017 - 2018 [Mminail.github.io](https://mminail.github.io/){:title='Click to Visit the Home Page of the Concepts Library of the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation'}{:target='_blank'}.
 
-- The [CHAIN](https://www.chain.com/){:title="Click to Visit Chain dot com"}{:target="_blank"} is an acronym for the Chain Virtual Machine and its accompanying Ivy programming language. Published by © 2017 [Chain.com](https://www.chain.com/){:title="Click to Visit Chain dot com"}{:target="_blank"}.
+**Note**. This page crafted with {{ page.version }}.

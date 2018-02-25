@@ -1,2 +1,3 @@
-# Ivy-Lessons-Project
-A Git Hub repo of Ivy Lessons
+# Ivy Lessons Project
+
+A GitHub repo of Lessons and Articles emphasizing the Ivy chain engine.
