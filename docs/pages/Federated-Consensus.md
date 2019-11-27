@@ -2,21 +2,17 @@
 title: Federated Consensus
 layout: default
 excerpt: Federated consensus is a protocol for running a single blockchain across a Permissioned Blockchain Network ...
-version: Page Template md Dtd 02-16-18
+hint: Traditional blockchain mining for BTC or ETH costs exponentially greater amounts of electricity every month as Bitcoin and Ethereum expand their networks and platforms.
+repo: Ivy-Lessons-Project
+ver_date: 11-26-19
 navigation_weight: 8
-categories: template
+categories: page
 ---
-# {{ page.title }}
-
-{{ page.excerpt }}
-
 {% include toc.md %}
 
 ## Permissioned Blockchain Network (PBN)
 
-**Federated Consensus** is a protocol for running a single blockchain across a **Permissioned Blockchain Network**, or **PBN**.
-
-Traditional blockchain mining ( BTC, ETH ) costs exponentially greater amounts of electricity every month as Bitcoin and Ethereum expand their networks and platforms.
+> **Hint**. {{ page.hint }}
 
 When operating a **Federated Consensus** blockchain model over a **Permissioned Blockchain Network**, or **PBN** ...
 
@@ -124,28 +120,16 @@ The result of the boolean test, given (฿) = one (1), would prove the boolean `
 
 **Conclusion**. Because the result two (2) is greater than or equal to the number of bad (฿) signatures returned; where (฿) is equal to one (1), the block may progress to the forging stage.
 
-## Import Code
+## Last Subtitle
 
 More to come ...
 
-## Last Subtitle
+***
 
 **Note**. The above synopsis was derived from an article written by the Chain [[2](#CHAIN){:.red}].
 
-### Raw Code Block
-
-```liquid
-{% raw %}
-Enjoy the successful output!
-{% endraw %}
-```
-
-{% include sources-and-uses.md %}
-
 1. {:#CHAIN}The [CHAIN](https://www.chain.com/){:title="Click to Visit Chain dot com"}{:target="_blank"} is an acronym for the Chain Virtual Machine and its accompanying Ivy programming language. Published by © 2017 [Chain.com](https://www.chain.com/){:title="Click to Visit Chain dot com"}{:target="_blank"}.
 
-### External Sources
+***
 
-- {:#SOURCELINKS}The [Project Source Links](https://mminail.github.io/Shell/Source-Shell-Links.htm){:title='Click to Visit the Source Links page of the Shell Lessons Project at Concepts Library'}{:target='_blank'} page of the Shell Lessons Project at Concepts Library. Published by © 2017 - 2018 [Mminail.github.io](https://mminail.github.io/){:title='Click to Visit the Home Page of the Concepts Library of the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation'}{:target='_blank'}.
-
-**Note**. This page crafted with {{ page.version }}.
+{% include patreon-link.md %}
